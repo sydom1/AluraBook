@@ -1,0 +1,8 @@
+@import url("styles/header.css");
+
+/*importando um style header*/
+
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
+}
